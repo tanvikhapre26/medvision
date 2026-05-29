@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🩻 medvision
+#  medvision
 
 ### PyTorch library for medical image classification
 
